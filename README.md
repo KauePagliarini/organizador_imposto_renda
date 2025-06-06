@@ -25,7 +25,7 @@ Este projeto tem como objetivo facilitar o processo de organização das informa
 ## 📝 Estrutura do Repositório
 
 - `README.md` → Documentação do projeto
-- Arquivo `https://acadcruzeirodosul-my.sharepoint.com/:x:/g/personal/kaue_pagliarini_cs_unicid_edu_br/EcHsn4aHV45KuVq-J2Id0UEBACuRIBfBlDHsxHHZYzWmOg?e=8pKIcK` → Planilha organizadora
+- Arquivo: https://acadcruzeirodosul-my.sharepoint.com/:x:/g/personal/kaue_pagliarini_cs_unicid_edu_br/EcHsn4aHV45KuVq-J2Id0UEBACuRIBfBlDHsxHHZYzWmOg?e=8pKIcK → Planilha organizadora
 
 ## 🔗 Recursos Úteis
 
